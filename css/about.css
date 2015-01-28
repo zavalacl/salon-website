@@ -1,0 +1,58 @@
+body {
+  background-image: url(http://warrentricomi.com/wp-content/uploads/wordpress/Hair-Salon-East-Hampton-Warren-Tricomi.jpg);
+  background-size: 1500px 833px;
+  background-repeat: no-repeat;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 900px;
+  height: 800px;
+}
+
+.banner {
+  margin-bottom: -4.5px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.navigation {
+  background-color:#000;
+  font-size: 23px;
+  font-family: 'Syncopate', sans-serif;
+}
+
+.navigation a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  padding-left: 85px;
+  padding-top: 10px;
+}
+
+.navigation a:hover {
+  color: #8b4513;
+  text-decoration: underline;
+}
+
+.navigation a:visited {
+  color: #787878;
+}
+
+.description {
+  background: #000;
+  width: 850px;
+  height: 449px;
+  font-size: 23px;
+  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding: 25px;
+}
+
+.description ul {
+  list-style-type: none;
+}
